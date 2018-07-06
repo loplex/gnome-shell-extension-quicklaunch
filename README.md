@@ -10,7 +10,7 @@ To populate the popup menu, put .desktop files into `~/.local/share/gnome-shell/
 
 Install this extension via https://extensions.gnome.org
 
-Alternatively move the `QuickLaunch@github.com` folder into `~/.local/share/gnome-shell/extensions` and use gnome-tweak-tool to enable it.
+Alternatively move the `loplex-gse-QuickLaunch@github.com` folder into `~/.local/share/gnome-shell/extensions` and use gnome-tweak-tool to enable it.
 
 # Launchers
 
